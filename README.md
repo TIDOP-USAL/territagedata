@@ -58,13 +58,13 @@ The application automatically generates:
 
 The development of this repository involved:
 
-Miguel Ángel Maté-González 
+Miguel Ángel Maté-González  
 Jesús Rodríguez-Hernández  
-Daniel Herranz Herranz
-Marta Pagán Martínez
-Cristina Sáez Blázquez 
-Fernando Peral Fernández
-Diego González Aguilera
+Daniel Herranz Herranz  
+Marta Pagán Martínez  
+Cristina Sáez Blázquez  
+Fernando Peral Fernández  
+Diego González Aguilera  
 
 ## Funding
 
